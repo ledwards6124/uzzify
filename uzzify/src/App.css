@@ -69,7 +69,7 @@ body {
 }
 
 .word-list > p {
-  padding: 8px;
+  margin: 4px;
   font-size: 24px;
   font-weight: bold;
   border-radius: 8px;
@@ -114,4 +114,31 @@ body {
   flex-direction: column;
   max-height: 40vh;
   overflow-y: auto;
+}
+@media only screen and (max-width: 600px) {
+  .word-list-container {
+    max-height: 30vh;
+  }
+  
+  .word-list {
+    max-width: fit-content;
+  }
+
+  .input {
+    min-width: fit-content;
+    margin: 5px;
+  }
+
+  .input-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+
+  .recent-word, .sub-title {
+    font-size: 24px;
+    margin: 0px;
+  }
 }
