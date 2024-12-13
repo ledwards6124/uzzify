@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/uzzify/static/css/main.33415623.css",
-    "main.js": "/uzzify/static/js/main.29583a11.js",
+    "main.js": "/uzzify/static/js/main.b5675f42.js",
     "static/js/488.76e45340.chunk.js": "/uzzify/static/js/488.76e45340.chunk.js",
     "static/media/logo.svg": "/uzzify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/uzzify/index.html",
     "main.33415623.css.map": "/uzzify/static/css/main.33415623.css.map",
-    "main.29583a11.js.map": "/uzzify/static/js/main.29583a11.js.map",
+    "main.b5675f42.js.map": "/uzzify/static/js/main.b5675f42.js.map",
     "488.76e45340.chunk.js.map": "/uzzify/static/js/488.76e45340.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33415623.css",
-    "static/js/main.29583a11.js"
+    "static/js/main.b5675f42.js"
   ]
 }
